@@ -1,0 +1,30 @@
+---
+title: "Causal Mapping"
+image: "img.png"
+links:
+  - label: Wikipedia
+    url: "https://en.wikipedia.org/wiki/Causal_map"
+  - label: Causal Map
+    url: "http://causalmap.app"
+  - label: Email
+    url: "mailto:hello@causalmap.app"
+output:
+  postcards::solana
+---
+
+## Causal mapping
+
+Causal mapping is the process of constructing, summarising and drawing inferences from a causal map, and more broadly can refer to sets of techniques for doing this. While one group of such methods is actually called “causal mapping”, there are many similar methods which go by a wide variety of names.
+
+Causal maps, as a way of diagramming beliefs about what causes what, have been used since the 1970’s by researchers and practitioners in a range of disciplines from management science to ecology, employing a variety of methods. 
+
+Causal mapping goes back at least to Axelrod (1976), who used an approach which is based in turn on Kelly’s personal construct theory  (Kelly, 1955). The idea of wanting to understand the behaviour of actors in terms of their internal ‘maps’ of the world goes back further, to Kurt Lewin (Lewin, 1982) and the field theorists (Tolman, 1948). Causal mapping is largely based on "concept mapping" and “cognitive mapping”, and sometimes the three terms are used interchangeably. However the latter two sometimes cover maps in which the links between factors are not necessarily causal (for example, to encode “X belongs to Y” rather than “X causally influences Y”) and which are therefore not causal maps. 
+
+
+[Write to us](mailto:hello@causalmap.app) if you are interested or want to know more.
+
+[Sign up](http://eepurl.com/gWWBgH) to the Causal Map mailing list.
+
+----
+
+causalmapping.org is provided by [Causal Map Ltd](http://causalmap.app).
