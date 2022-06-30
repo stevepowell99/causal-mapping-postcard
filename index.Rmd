@@ -12,11 +12,13 @@ output:
   postcards::solana
 ---
 
-## Causal mapping
+## Just a landing page ...
 
 Let's put causal mapping (back) on the internet! 
 
 This landing page is provided by [Causal Map Ltd](http://causalmap.app) -- a small startup near Bristol, UK -- but causal mapping is a lot more than just one approach or one company.  
+
+Causal mapping has a lot of potential to help make sense of different people's views of complex and rapidly-changing social processes: to get an overview of "what causally influences what". 
 
 Causal mapping is the process of constructing, summarising and drawing inferences from a causal map, and more broadly can refer to sets of techniques for doing this. While one group of such methods is actually called “causal mapping”, there are many similar methods which go by a wide variety of names.
 
